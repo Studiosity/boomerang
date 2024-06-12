@@ -1,8 +1,0 @@
-{
-    all: {
-        requires: ["spa", "history", "auto-xhr"]
-    },
-    "29-route-change-early-beacon": {
-        requires: ["early"]
-    }
-}

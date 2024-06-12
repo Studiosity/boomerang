@@ -1,5 +1,0 @@
-{
-    all: {
-        requires: ["third-party-analytics"]
-    }
-}

@@ -1,8 +1,0 @@
-{
-    all: {
-        requires: ["errors"]
-    },
-    "08-network": {
-        requires: ["auto-xhr"]
-    }
-}
